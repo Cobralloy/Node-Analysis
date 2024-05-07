@@ -455,21 +455,19 @@ int main()
 
 /*
     References
-    I used vectors because arrays were too annoying (skill issue)
+    Vectors
     https://cplusplus.com/reference/vector/vector/
 
-    Thanks to this Stackoverflow post about access specifiers for child classes
+    Access specifiers
     https://stackoverflow.com/questions/860339/what-is-the-difference-between-public-private-and-protected-inheritance-in-c
 
-    Thanks to this Stackoverflow post about inheriting constructors
+    Inheriting constructors
     https://stackoverflow.com/questions/347358/inheriting-constructors 
 
-    Thanks to this forum post about moving the file pointer (seekg)
+    Moving the file pointer (seekg)
     https://cplusplus.com/forum/beginner/30644/ 
 
-    Thanks to this website about struct
+    Struct
     https://www.w3schools.com/cpp/cpp_structs.asp
     
-    hi alan :)
-    good job alan. plz give me this once current controlled source works :)
 */
