@@ -345,8 +345,8 @@ class NodeAnalysisMatrix: public SquareAugmentedMatrix
 
 int main()
 {
-    ifstream fileIn ("circuit.txt");
-    ofstream fileOut ("results.txt");
+    ifstream fileIn ("./Data/circuit.txt");
+    ofstream fileOut ("./Data/results.txt");
     if (!fileIn)
     {
         cout << "The file failed to open!";
