@@ -6,7 +6,7 @@ Then list every element in the circuit in the following format
 For voltage controlled sources
 (node from) (node to) (element type) (multiplier) (controlNodeFrom) (controlNodeTo)
 
-##(element type):
+## (element type):
 0 for uncontrolled current source (node from is current entering source, node to is current exiting source)
 1 for uncontrolled voltage source (node from is negative, node to is positive)
 2 for resistor (node from is negative terminal, node to is positive terminal)
